@@ -39,15 +39,21 @@ Proxy Switcher is for all the anonymous browsing needs. It can be used to avoid 
 https://www.proxyswitcher.com/
 
 # VPN's
+## Proton VPN
+VPN software that allows you to surf anonymously, access blocked or censored content.
+"Regular VPN services can be compromised if their servers are under surveillance. Proton VPN prevents this by first passing user traffic through our Secure Core network in privacy-friendly countries like Switzerland and Iceland. Thus, even a compromised VPN endpoint server will not reveal your true IP address."<br>
+[Free/Paid]<br>
+https://protonvpn.com/
+
 ## CyberGhost VPN
 VPN software that allows you to surf anonymously, access blocked or censored content.<br>
 [Paid]<br>
 https://www.cyberghostvpn.com/
 
-## Proton VPN
+## Nord VPN
 VPN software that allows you to surf anonymously, access blocked or censored content.<br>
 [Paid]<br>
-https://protonvpn.com/
+https://nordvpn.com/
 
 # Network Discovery Tool
 
